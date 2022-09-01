@@ -1,9 +1,9 @@
 package Ejercicios_Tema_1;
 
-public class Variables {
+public class tiposDatos {
 
     public static void main(String[] args){
-        Variables test = new Variables();
+        tiposDatos test = new tiposDatos();
         System.out.println(test);
     }
 
